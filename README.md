@@ -89,5 +89,5 @@
 
 ---
 
-### 6.세미 프로젝트 관리자 Repository : https://github.com/Yeon-Ho/Semi_Project_Admin
+### 6.세미 프로젝트 관리자 Repository : https://github.com/ats3059/Semi_Admin
 
